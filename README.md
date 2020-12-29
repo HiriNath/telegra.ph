@@ -4,7 +4,7 @@
 
 ## installation (easy way)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HiriNath/telegra.ph)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HiriNath/telegra.ph/tree/master)
 
 Libraries used: => Pyrogram => Telegraph
 
